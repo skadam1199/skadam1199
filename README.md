@@ -18,7 +18,6 @@
 
 ---
 
-<img align="right" src="https://media3.giphy.com/media/8Z0De8hf1ANnvN7Zbi/giphy.gif" width="220" alt="women in tech"/>
 
 ## 🏅 National Scholar — Govt. of India
 
