@@ -20,8 +20,11 @@
 
 <img align="right" src="https://media3.giphy.com/media/8Z0De8hf1ANnvN7Zbi/giphy.gif" width="220" alt="women in tech"/>
 
-> **🏅 Awarded by the Education Minister of India**
-> MS at University of Maryland **fully funded by the Indian Government** 🇮🇳
+## 🏅 National Scholar — Govt. of India
+
+> **Awarded by the Education Minister of India**  
+> MS at University of Maryland **fully funded by the Indian Government** 🇮🇳  
+> Selected nationally among top STEM scholars — brought from Pune to College Park.
 
 ## ⚡ About Me
 
