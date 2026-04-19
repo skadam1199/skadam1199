@@ -32,12 +32,12 @@
 ```python
 supriya = {
     "education"  : "MS Data Science @ UMD · GPA 3.7 · May 2026",
-    "working_at" : ["Connyct Inc. (NYC)", "UMD Connectomics Lab"],
-    "research"   : "Mouse retina neuron connectivity",
-    "builds"     : ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-Tuning"],
-    "won"        : ["HOF Hacks 2026", "Technica 2025", "CAFB 2025"],
-    "location"   : "Hyattsville, MD  ·  she/her",
-    "open_to"    : "DS · ML Engineer · GenAI roles · May 2026"
+    "working_at" : ["Data Scientist @ Connyct Inc. (NYC)", "Researcher @ UMD Connectomics Lab"],
+    "prev"       : ["Tata Consultancy Services", "Accelnomics Technologies · Tata Motors · 3+ yrs industry"],
+    "judged"     : "MDC Data & AI Hackathon · University of Michigan ⚖️",
+    "builds"     : ["GenAI Systems", "ML Pipelines", "Data Products", "Research Tools", "BI Dashboards"],
+    "location"   : "United States",
+    "open_to"    : "Data Scientist · Business/Data Analyst · ML Engineer · GenAI Engineer · May 2026 ✨"
 }
 ```
 
@@ -143,10 +143,9 @@ Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuo
 <!-- Verified girl coder GIF: https://giphy.com/gifs/girl-computer-work-from-home-wfh-LaVp0AyqR5bGsC5Cbm -->
 <img align="right" src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="girl with laptop"/>
 
-- 🎓 &nbsp;MS thesis on neural connectomics @ UMD · **May 2026**
+- 🎓 &nbsp;MS Research on neural connectomics @ UMD · **May 2026**
 - 🏗️ &nbsp;Data Scientist @ **Connyct** — AI-native social product, NYC
 - 🔭 &nbsp;Exploring agentic eval frameworks & LLM observability
-- ✨ &nbsp;Open to **DS · ML Engineer · GenAI** roles from May 2026
 
 <br/><br/><br/>
 
