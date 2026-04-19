@@ -19,23 +19,23 @@
 ---
 
 
-## 🏅 National Scholar — Govt. of India
 
-> **Awarded by the Education Minister of India**  
-> MS at University of Maryland **fully funded by the Indian Government** 🇮🇳  
+
+> **## 🏅 Awarded by the Education Minister of India**  
+> ## MS at University of Maryland **fully funded by the Indian Government**  
 > Selected nationally among top STEM scholars — brought from Pune to College Park.
 
 ## ⚡ About Me
 
 ```python
 supriya = {
-    "education"  : "MS Data Science @ UMD · GPA 3.7 · May 2026 · Govt. of India Scholar 🇮🇳",
+    "education"  : "MS Data Science @ UMD · GPA 3.7 · May 2026 · Govt. of India Scholar",
     "working_at" : ["Data Scientist @ Connyct Inc. (NYC)", "Researcher @ UMD Connectomics Lab"],
     "prev"       : ["Tata Consultancy Services", "Accelnomics Technologies", "Tata Motors" · "3+ yrs industry"],
-    "judged"     : "MDC Data & AI Hackathon · University of Michigan ⚖️",
+    "judged"     : "MDC Data & AI Hackathon · University of Michigan ",
     "builds"     : ["GenAI Systems", "ML Pipelines", "Data Products", "Research Tools", "BI Dashboards"],
     "location"   : "United States",
-    "open_to"    : "Data Scientist · Business/Data Analyst · ML Engineer · GenAI Engineer · May 2026 ✨"
+    "open_to"    : "Data Scientist · Business/Data Analyst · ML Engineer · GenAI Engineer · May 2026 "
 }
 ```
 
