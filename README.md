@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Supriya+Kadam" alt="Hi I'm Supriya Kadam"/>
+<!-- Name with wave hand emoji built into the typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Supriya+Kadam!" alt="Hi I'm Supriya Kadam"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=FF1493&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG+Pipelines;3%C3%97+Hackathon+Winner+%7C+Govt.+of+India+National+Scholar;MS+Data+Science+%40+UMD+%7C+GPA+3.7+%7C+May+2026" alt="Roles"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380" alt="girl coding gif"/>
+<!-- Confirmed female coder GIF: Girl Coding by INTO ACTION -->
+<img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="360" alt="girl coding gif"/>
 
 <br/><br/>
 
@@ -19,7 +21,8 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="woman working gif"/>
+<!-- Confirmed female tech GIF: Women in Tech by TechNova — floated right -->
+<img align="right" src="https://media.giphy.com/media/8Z0De8hf1ANnvN7Zbi/giphy.gif" width="230" alt="women in tech gif"/>
 
 ## 🏅 National Scholar — Govt. of India
 
@@ -136,11 +139,27 @@ Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuo
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=skadam1199&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF1493&icon_color=FF1493&text_color=ffffff&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skadam1199&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF1493&text_color=ffffff&langs_count=6"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=skadam1199&theme=dark&hide_border=true&background=000000&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=ffffff" width="480"/>
+
+</div>
+
+---
+
 ## 🌱 Currently
 
-<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="girl with laptop gif"/>
+<!-- Confirmed female GIF: Pluralsight woman coding -->
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="woman coding"/>
 
-- 🎓 &nbsp;MS Research on neural connectomics @ UMD · **May 2026**
+- 🎓 &nbsp;MS thesis on neural connectomics @ UMD · **May 2026**
 - 🏗️ &nbsp;Data Scientist @ **Connyct** — AI-native social product, NYC
 - 🔭 &nbsp;Exploring agentic eval frameworks & LLM observability
 - ✨ &nbsp;Open to **DS · ML Engineer · GenAI** roles from May 2026
@@ -150,9 +169,5 @@ Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuo
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"/>
-
-*she is not just in the room — she built the model that runs it.*
-
+<sub><i>she is not just in the room — she built the model that runs it.</i></sub>
 </div>
