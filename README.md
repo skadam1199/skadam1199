@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Supriya Nagnath Kadam
+# 👋 Hi, I'm Supriya Kadam
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=FF1493&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Coffee+%E2%98%95+%E2%86%92+Code+%F0%9F%92%BB+%E2%86%92+Conquer+%F0%9F%8F%86+%C2%B7+AI+Nerd+%F0%9F%8E%80" alt="Roles"/>
+
 <br/>
 
-<!-- Verified woman coder GIF: https://giphy.com/gifs/woman-computer-coding-L1R1tvI9svkIWwpVYr -->
 <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="woman coding"/>
 
 <br/><br/>
@@ -13,27 +13,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493)](https://linkedin.com/in/supriya-kadam11)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1493)](mailto:skadam12@umd.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1493)](https://github.com/skadam1199)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF1493)](https://skadam1199.github.io/skadam1199)
 
 </div>
 
 ---
 
-<!-- Verified women in tech GIF floated right: https://giphy.com/gifs/ItsTechNova-women-in-tech-8Z0De8hf1ANnvN7Zbi -->
 <img align="right" src="https://media3.giphy.com/media/8Z0De8hf1ANnvN7Zbi/giphy.gif" width="220" alt="women in tech"/>
 
-## 🏅 National Scholar — Govt. of India
-
-> **Awarded by the Education Minister of India**  
+> **🏅 Awarded by the Education Minister of India**
 > MS at University of Maryland **fully funded by the Indian Government** 🇮🇳
 
 ## ⚡ About Me
 
 ```python
 supriya = {
-    "education"  : "MS Data Science @ UMD · GPA 3.7 · May 2026",
+    "education"  : "MS Data Science @ UMD · GPA 3.7 · May 2026 · Govt. of India Scholar 🇮🇳",
     "working_at" : ["Data Scientist @ Connyct Inc. (NYC)", "Researcher @ UMD Connectomics Lab"],
-    "prev"       : ["Tata Consultancy Services", "Accelnomics Technologies · Tata Motors · 3+ yrs industry"],
+    "prev"       : ["Tata Consultancy Services", "Accelnomics Technologies", "Tata Motors" · 3+ yrs industry"],
     "judged"     : "MDC Data & AI Hackathon · University of Michigan ⚖️",
     "builds"     : ["GenAI Systems", "ML Pipelines", "Data Products", "Research Tools", "BI Dashboards"],
     "location"   : "United States",
@@ -137,10 +133,8 @@ Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuo
 
 ---
 
-
 ## 🌱 Currently
 
-<!-- Verified girl coder GIF: https://giphy.com/gifs/girl-computer-work-from-home-wfh-LaVp0AyqR5bGsC5Cbm -->
 <img align="right" src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="girl with laptop"/>
 
 - 🎓 &nbsp;MS Research on neural connectomics @ UMD · **May 2026**
@@ -152,5 +146,5 @@ Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuo
 ---
 
 <div align="center">
-<sub><i>she is not just in the room — she built the model that runs it.</i></sub>
+<sub><i>trains models & her biceps🎀 · wanderlust always ✈️ · paints, sings & dances between deployments 🎨🎤💃</i></sub>
 </div>
