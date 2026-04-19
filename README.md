@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Supriya Kadam
+# 👋 Hi, I'm Supriya Nagnath Kadam
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF1493&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG+Pipelines;3%C3%97+Hackathon+Winner+%7C+Govt.+of+India+National+Scholar;MS+Data+Science+%40+UMD+%7C+GPA+3.7+%7C+May+2026" alt="Roles"/>
 
