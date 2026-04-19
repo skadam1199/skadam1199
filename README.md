@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Name with wave hand emoji built into the typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Supriya+Kadam!" alt="Hi I'm Supriya Kadam"/>
+# 👋 Hi, I'm Supriya Kadam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=FF1493&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG+Pipelines;3%C3%97+Hackathon+Winner+%7C+Govt.+of+India+National+Scholar;MS+Data+Science+%40+UMD+%7C+GPA+3.7+%7C+May+2026" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF1493&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG+Pipelines;3%C3%97+Hackathon+Winner+%7C+Govt.+of+India+National+Scholar;MS+Data+Science+%40+UMD+%7C+GPA+3.7+%7C+May+2026" alt="Roles"/>
 
-<br/><br/>
+<br/>
 
-<!-- Confirmed female coder GIF: Girl Coding by INTO ACTION -->
-<img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="360" alt="girl coding gif"/>
+<!-- Verified woman coder GIF: https://giphy.com/gifs/woman-computer-coding-L1R1tvI9svkIWwpVYr -->
+<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="woman coding"/>
 
 <br/><br/>
 
@@ -21,13 +20,13 @@
 
 ---
 
-<!-- Confirmed female tech GIF: Women in Tech by TechNova — floated right -->
-<img align="right" src="https://media.giphy.com/media/8Z0De8hf1ANnvN7Zbi/giphy.gif" width="230" alt="women in tech gif"/>
+<!-- Verified women in tech GIF floated right: https://giphy.com/gifs/ItsTechNova-women-in-tech-8Z0De8hf1ANnvN7Zbi -->
+<img align="right" src="https://media3.giphy.com/media/8Z0De8hf1ANnvN7Zbi/giphy.gif" width="220" alt="women in tech"/>
 
 ## 🏅 National Scholar — Govt. of India
 
 > **Awarded by the Education Minister of India**  
-> MS at University of Maryland **fully funded by the Indian Government** 🇮🇳  
+> MS at University of Maryland **fully funded by the Indian Government** 🇮🇳
 
 ## ⚡ About Me
 
@@ -139,25 +138,11 @@ Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=skadam1199&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF1493&icon_color=FF1493&text_color=ffffff&include_all_commits=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skadam1199&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF1493&text_color=ffffff&langs_count=6"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=skadam1199&theme=dark&hide_border=true&background=000000&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=ffffff" width="480"/>
-
-</div>
-
----
 
 ## 🌱 Currently
 
-<!-- Confirmed female GIF: Pluralsight woman coding -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="woman coding"/>
+<!-- Verified girl coder GIF: https://giphy.com/gifs/girl-computer-work-from-home-wfh-LaVp0AyqR5bGsC5Cbm -->
+<img align="right" src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="girl with laptop"/>
 
 - 🎓 &nbsp;MS thesis on neural connectomics @ UMD · **May 2026**
 - 🏗️ &nbsp;Data Scientist @ **Connyct** — AI-native social product, NYC
