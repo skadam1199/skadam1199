@@ -1,102 +1,95 @@
+<!-- Header typing animation -->
 <div align="center">
 
-<!-- Animated header: dark magenta-to-black, sharp architectural shape -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0010,40:1c0028,70:2a0040,100:0d0010&height=180&section=header&text=SUPRIYA%20KADAM&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descSize=15&descColor=c084fc&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Supriya+Kadam" alt="Name"/>
 
-<!-- Animated typewriter -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG+Pipelines;Neuroscience+Research+%40+UMD;3%C3%97+Hackathon+Winner+%7C+Govt.+of+India+Scholar;Building+AI+that+actually+works." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG;3%C3%97+Hackathon+Winner+%7C+Govt.+of+India+Scholar;MS+Data+Science+%40+UMD+%7C+GPA+3.7+%7C+May+2026" alt="Roles"/>
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=0a0010&color=c084fc)](https://linkedin.com/in/supriya-kadam11)
-[![Email](https://img.shields.io/badge/Email-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=0a0010&color=a855f7)](mailto:skadam12@umd.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=0a0010&color=7c3aed)](https://github.com/skadam1199)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0020?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supriya-kadam11)
+[![Gmail](https://img.shields.io/badge/Email-0f0020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skadam12@umd.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skadam1199)
 
 </div>
 
-<br/>
+---
+
+## 🏅 Government of India — National Scholar
+
+> **Awarded by the Education Minister of India** — selected among top STEM scholars nationally  
+> My Master's at the University of Maryland is **fully funded by the Indian Government** 🇮🇳  
+> One of the rarest distinctions in Indian academia — brought from Pune to College Park to build the future of AI.
 
 ---
 
-## 🏅 &nbsp;Government of India — National Scholar
-
-> Awarded by the **Education Minister of India** · Selected nationally among top STEM scholars  
-> Master's at University of Maryland **fully sponsored by the Indian Government** 🇮🇳  
-> One of the rarest distinctions in Indian academia — brought me from Pune to College Park to build the future of AI.
-
----
-
-## ⚡ &nbsp;About Me
+## ⚡ About Me
 
 ```python
 supriya = {
-    "role"       : ["Data Scientist", "ML Engineer", "GenAI Builder"],
-    "education"  : "MS Data Science @ UMD (GPA 3.7, May 2026)",
-    "working_at" : "Connyct, Inc. (NYC) + UMD Research Lab",
-    "research"   : "Mouse retina neuron connectomics",
-    "stack"      : ["Python", "SQL", "PyTorch", "Spark", "RAG", "Multi-Agent"],
-    "wins"       : ["HOF Hacks 2026", "Technica 2025", "CAFB 2025"],
-    "location"   : "Hyattsville, MD",
-    "she_her"    : True,
-    "open_to"    : "DS · ML Engineer · GenAI roles from May 2026"
+    "role"        : ["Data Scientist", "ML Engineer", "GenAI Builder"],
+    "education"   : "MS Data Science @ UMD · GPA 3.7 · May 2026",
+    "currently"   : ["Connyct Inc. (NYC)", "UMD Neuroscience Research Lab"],
+    "research"    : "Mouse retina neuron connectomics",
+    "specialisms" : ["LLM Fine-Tuning", "RAG", "Multi-Agent Systems", "MCP"],
+    "hackathons"  : {"wins": 3, "runner_up": 1, "judge": 1},
+    "location"    : "Hyattsville, MD · she/her",
+    "open_to"     : "DS · ML Engineer · GenAI roles from May 2026"
 }
 ```
 
 ---
 
-## 🏆 &nbsp;Hackathon Hall of Fame
+## 🏆 Hackathon Record
 
-<div align="center">
-
-| &nbsp; | Event | Result | Key Stack |
-|:---:|-------|:------:|-----------|
-| 🥇 | **HOF Hacks** — HOF Capital & Tech at NYU `Feb 2026` | **Winner** | Nemotron · Databricks · RAG · FastAPI · MediaPipe |
-| 🥇 | **Technica 2025** — T. Rowe Price Investor Challenge `Dec 2025` | **Winner** | LLM Fine-Tuning · NLP · RAG · Vector Embeddings |
-| 🥇 | **CAFB** — AI for the Underserved `Apr 2025` | **Winner** | Kafka · AWS Lambda · DynamoDB · TTS |
+| | Event | Result | Stack |
+|:---:|---|:---:|---|
+| 🥇 | **HOF Hacks** — HOF Capital & Tech at NYU `Feb 2026` | Winner | Nemotron · Databricks · RAG · FastAPI · MediaPipe |
+| 🥇 | **Technica 2025** — T. Rowe Price Investor Challenge `Dec 2025` | Winner | LLM Fine-Tuning · NLP · RAG · Vector Embeddings |
+| 🥇 | **CAFB** — AI for the Underserved `Apr 2025` | Winner | Kafka · AWS Lambda · DynamoDB · TTS |
 | 🥈 | **Knight Hacks VIII** — ServiceNow AI Challenge `Nov 2025` | Runner-Up | Sentence Transformers · UMAP · HDBSCAN · MCP |
 | ⚖️ | **MDC Data & AI** — University of Michigan `Mar 2026` | Judge | — |
 
-</div>
-
 ---
 
-## 🔬 &nbsp;Projects
+## 🔬 Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### ⚖️ Multi-Agent Legal Simulator
-Fine-tuned **NVIDIA Nemotron** on legal corpora. Built a RAG pipeline over Federal Rules of Evidence for real-time compliance detection. Orchestrated **4 agents** via Claude SDK. Eval'd with Galileo.ai across facial, audio & transcript signals.
+**⚖️ Multi-Agent Legal Simulator**
 
-`Nemotron` `RAG` `Claude SDK` `MediaPipe` `FastAPI` `WebSockets` `Databricks`
+Fine-tuned NVIDIA Nemotron on legal corpora. RAG pipeline over Federal Rules of Evidence. 4 agents via Claude SDK. Eval with Galileo.ai across facial, audio & transcript signals.
+
+`Nemotron` `RAG` `Claude SDK` `MediaPipe` `FastAPI` `Databricks`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 📈 Financial Education Platform
-NLP sentiment pipeline on **SEC EDGAR** + Alpha Vantage market data. Feature engineering + ML models for personalized lesson sequencing. Validated across 3 retraining cycles in a compliance-aware multilingual beta.
+**📈 Financial Education Platform**
+
+NLP sentiment pipeline on SEC EDGAR + Alpha Vantage. ML models for personalized lesson sequencing. Validated across 3 retraining cycles in a multilingual beta pilot.
 
 `scikit-learn` `NLP` `SEC EDGAR` `Alpha Vantage` `Recharts`
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Retina Connectomics Research
-Preprocessing **10K+ neural annotation** exports from connectomics datasets. PCA-based orientation relationships across **500+ neuron skeleton** files to quantify inter-layer connectivity patterns at UMD.
+**🧠 Retina Connectomics Research**
 
-`scikit-image` `NumPy` `Matplotlib` `R` `Python`
+10K+ neural annotation exports from connectomics datasets. PCA-based orientation relationships across 500+ neuron skeleton files at UMD.
+
+`Python` `scikit-image` `NumPy` `Matplotlib` `R`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🔍 Enterprise Demand Intelligence
-Multi-agent demand analysis using Sentence Transformers, **UMAP + HDBSCAN** and LLM-driven semantic routing. Continuous agent reasoning loops via **Google ADK** and Model Context Protocol.
+**🔍 Enterprise Demand Intelligence**
+
+Multi-agent semantic routing with Sentence Transformers, UMAP, HDBSCAN. Continuous agent reasoning loops via Google ADK and Model Context Protocol.
 
 `Google ADK` `MCP` `UMAP` `HDBSCAN` `Sentence Transformers`
 
@@ -106,79 +99,67 @@ Multi-agent demand analysis using Sentence Transformers, **UMAP + HDBSCAN** and 
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-0d0010?style=flat-square&logo=python&logoColor=c084fc&labelColor=0d0010)
-![SQL](https://img.shields.io/badge/SQL-0d0010?style=flat-square&logo=postgresql&logoColor=c084fc)
-![R](https://img.shields.io/badge/R-0d0010?style=flat-square&logo=r&logoColor=c084fc)
-![Scala](https://img.shields.io/badge/Scala-0d0010?style=flat-square&logo=scala&logoColor=c084fc)
-![Bash](https://img.shields.io/badge/Bash-0d0010?style=flat-square&logo=gnubash&logoColor=c084fc)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d0010?style=flat-square&logo=mathworks&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-0f0020?style=flat-square&logo=python&logoColor=a855f7)
+![SQL](https://img.shields.io/badge/SQL-0f0020?style=flat-square&logo=postgresql&logoColor=a855f7)
+![R](https://img.shields.io/badge/R-0f0020?style=flat-square&logo=r&logoColor=a855f7)
+![Scala](https://img.shields.io/badge/Scala-0f0020?style=flat-square&logo=scala&logoColor=a855f7)
+![Bash](https://img.shields.io/badge/Bash-0f0020?style=flat-square&logo=gnubash&logoColor=a855f7)
+![MATLAB](https://img.shields.io/badge/MATLAB-0f0020?style=flat-square&logo=mathworks&logoColor=a855f7)
 
-### GenAI & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0010?style=flat-square&logo=pytorch&logoColor=c084fc)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0010?style=flat-square&logo=huggingface&logoColor=c084fc)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0d0010?style=flat-square&logo=scikitlearn&logoColor=c084fc)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d0010?style=flat-square&logo=xgboost&logoColor=c084fc)
-![LangChain](https://img.shields.io/badge/LangChain-0d0010?style=flat-square&logo=chainlink&logoColor=c084fc)
-![MLflow](https://img.shields.io/badge/MLflow-0d0010?style=flat-square&logo=mlflow&logoColor=c084fc)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0020?style=flat-square&logo=pytorch&logoColor=a855f7)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0020?style=flat-square&logo=huggingface&logoColor=a855f7)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f0020?style=flat-square&logo=scikitlearn&logoColor=a855f7)
+![XGBoost](https://img.shields.io/badge/XGBoost-0f0020?style=flat-square&logo=xgboost&logoColor=a855f7)
+![MLflow](https://img.shields.io/badge/MLflow-0f0020?style=flat-square&logo=mlflow&logoColor=a855f7)
 
-### Data & Cloud
-![AWS](https://img.shields.io/badge/AWS-0d0010?style=flat-square&logo=amazonaws&logoColor=c084fc)
-![GCP](https://img.shields.io/badge/GCP-0d0010?style=flat-square&logo=googlecloud&logoColor=c084fc)
-![Azure](https://img.shields.io/badge/Azure-0d0010?style=flat-square&logo=microsoftazure&logoColor=c084fc)
-![Spark](https://img.shields.io/badge/Spark-0d0010?style=flat-square&logo=apachespark&logoColor=c084fc)
-![Kafka](https://img.shields.io/badge/Kafka-0d0010?style=flat-square&logo=apachekafka&logoColor=c084fc)
-![Airflow](https://img.shields.io/badge/Airflow-0d0010?style=flat-square&logo=apacheairflow&logoColor=c084fc)
-![Docker](https://img.shields.io/badge/Docker-0d0010?style=flat-square&logo=docker&logoColor=c084fc)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0010?style=flat-square&logo=kubernetes&logoColor=c084fc)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0010?style=flat-square&logo=fastapi&logoColor=c084fc)
+![AWS](https://img.shields.io/badge/AWS-0f0020?style=flat-square&logo=amazonaws&logoColor=a855f7)
+![GCP](https://img.shields.io/badge/GCP-0f0020?style=flat-square&logo=googlecloud&logoColor=a855f7)
+![Azure](https://img.shields.io/badge/Azure-0f0020?style=flat-square&logo=microsoftazure&logoColor=a855f7)
+![Spark](https://img.shields.io/badge/Spark-0f0020?style=flat-square&logo=apachespark&logoColor=a855f7)
+![Kafka](https://img.shields.io/badge/Kafka-0f0020?style=flat-square&logo=apachekafka&logoColor=a855f7)
+![Airflow](https://img.shields.io/badge/Airflow-0f0020?style=flat-square&logo=apacheairflow&logoColor=a855f7)
+![Docker](https://img.shields.io/badge/Docker-0f0020?style=flat-square&logo=docker&logoColor=a855f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0020?style=flat-square&logo=fastapi&logoColor=a855f7)
 
-### Viz & BI
-![Tableau](https://img.shields.io/badge/Tableau-0d0010?style=flat-square&logo=tableau&logoColor=c084fc)
-![PowerBI](https://img.shields.io/badge/Power%20BI-0d0010?style=flat-square&logo=powerbi&logoColor=c084fc)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d0010?style=flat-square&logo=streamlit&logoColor=c084fc)
-![Plotly](https://img.shields.io/badge/Plotly-0d0010?style=flat-square&logo=plotly&logoColor=c084fc)
-![Looker](https://img.shields.io/badge/Looker-0d0010?style=flat-square&logo=looker&logoColor=c084fc)
+![Tableau](https://img.shields.io/badge/Tableau-0f0020?style=flat-square&logo=tableau&logoColor=a855f7)
+![PowerBI](https://img.shields.io/badge/Power%20BI-0f0020?style=flat-square&logo=powerbi&logoColor=a855f7)
+![Streamlit](https://img.shields.io/badge/Streamlit-0f0020?style=flat-square&logo=streamlit&logoColor=a855f7)
+![Plotly](https://img.shields.io/badge/Plotly-0f0020?style=flat-square&logo=plotly&logoColor=a855f7)
 
 </div>
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skadam1199&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0010&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skadam1199&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0010&title_color=c084fc&text_color=e9d5ff"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=skadam1199&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0020&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skadam1199&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0020&title_color=a855f7&text_color=e9d5ff&langs_count=6"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skadam1199&theme=midnight-purple&hide_border=true&background=0d0010&stroke=7c3aed&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&dates=e9d5ff" width="500"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skadam1199&bg_color=0d0010&color=c084fc&line=7c3aed&point=a855f7&area=true&hide_border=true&area_color=2a0040" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=skadam1199&theme=midnight-purple&hide_border=true&background=0f0020&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=7c3aed&dates=e9d5ff" width="480"/>
+
 </div>
 
 ---
 
-## 🌱 &nbsp;Currently
+## 🌱 Currently
 
-- 🎓 &nbsp;MS thesis — neural connectomics @ UMD · graduating **May 2026**
-- 🏗️ &nbsp;Data Scientist @ **Connyct**, building AI-native social products in NYC
-- 🔭 &nbsp;Deep-diving agentic eval frameworks & LLM observability
+- 🎓 &nbsp;MS Research — neural connectomics @ UMD · graduating **May 2026**
+- 🏗️ &nbsp;Data Scientist @ **Connyct**, building AI-native social products (NYC)
+- 🔭 &nbsp;Exploring agentic eval frameworks & LLM observability tooling
 - ✨ &nbsp;Open to **Data Science · ML Engineer · GenAI** roles from May 2026
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0010,50:1c0028,100:0d0010&height=100&section=footer&reversal=true" width="100%"/>
-
-<sub>*"She is not just in the room. She built the model that runs it."*</sub>
-
+<sub>she is not just in the room — she built the model that runs it.</sub>
 </div>
