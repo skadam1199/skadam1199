@@ -31,7 +31,7 @@
 supriya = {
     "education"  : "MS Data Science @ UMD · GPA 3.7 · May 2026 · Govt. of India Scholar 🇮🇳",
     "working_at" : ["Data Scientist @ Connyct Inc. (NYC)", "Researcher @ UMD Connectomics Lab"],
-    "prev"       : ["Tata Consultancy Services", "Accelnomics Technologies", "Tata Motors" · 3+ yrs industry"],
+    "prev"       : ["Tata Consultancy Services", "Accelnomics Technologies", "Tata Motors" · "3+ yrs industry"],
     "judged"     : "MDC Data & AI Hackathon · University of Michigan ⚖️",
     "builds"     : ["GenAI Systems", "ML Pipelines", "Data Products", "Research Tools", "BI Dashboards"],
     "location"   : "United States",
