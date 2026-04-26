@@ -54,6 +54,7 @@ supriya = {
 | 🥇 | **CAFB** — AI for the Underserved `Apr 2025` | **Winner** | Kafka · AWS Lambda · DynamoDB · TTS |
 | 🥈 | **Knight Hacks VIII** — ServiceNow AI `Nov 2025` | Runner-Up | Sentence Transformers · UMAP · HDBSCAN · MCP |
 | ⚖️ | **MDC Data & AI** — Univ. of Michigan `Mar 2026` | Judge | — |
+| ⚖️ | **Anthropic x Claude Builder** — Univ. of Maryland `April 2026` | Judge | — |
 
 </div>
 
